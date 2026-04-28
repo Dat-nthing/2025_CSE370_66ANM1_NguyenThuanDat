@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 CSE212 • Kiến Trúc Máy Tính
+# 💻 CSE370 • Kiến Trúc Máy Tính
 ### 🕹️ Hardware – Assembly – Logic Gates • Computer Systems & Architecture
 
 <p>
@@ -66,4 +66,4 @@ Repo này lưu trữ toàn bộ hành trình tìm hiểu về "bộ não" của 
 ## 📫 Liên hệ
 
 - Email: thuandatne@gmail.com
-- GitHub: [Link GitHub của bạn]
+- GitHub: 
