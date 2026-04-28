@@ -66,4 +66,4 @@ Repo này lưu trữ toàn bộ hành trình tìm hiểu về "bộ não" của 
 ## 📫 Liên hệ
 
 - Email: thuandatne@gmail.com
-- GitHub: 
+- GitHub: https://github.com/Dat-nthing/2025_CSE370_66ANM1_NguyenThuanDat
